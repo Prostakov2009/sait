@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color:lightblue;
+}
+
+nav a {
+    margin:10px;
+    padding:5px;
+    border-radius: 15px;
+    text-decoration: none;
+ }
+ 
+ h1 {
+    color:purple;
+    text-decoration: none;
+ }
+
+ footer p {
+     background-color: lightgreen;
+      text-align: center;
+     }
+
+     nav {
+background-color:lightblue;
+}
+
+.abc {
+    background-color: lightgreen;
+    }
+
+ main h2 {
+  color: blue;
+    }
